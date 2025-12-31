@@ -1,3 +1,5 @@
 # vagrant-alma-1
 
-Use vagrant for almalinux 10
+Use vagrant to launch almalinux 10 VM
+
+- `sudo vagrant up` so the libvirt setup will use system session
