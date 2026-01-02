@@ -1,4 +1,4 @@
-# vagrant-alma-1
+# vg-alma-1
 
 Use vagrant to launch almalinux 10 VM
 
